@@ -1,0 +1,5210 @@
+[
+    {
+        "Organisation": "Insight",
+        "Region": "US",
+        "Team": "Marketing",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Communication",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Software Development",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Network Administration",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Sports"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Software Development",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Quality Control",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Leadership",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Marketing",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Quality Control",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Project Management",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Marketing",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "IT",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Leadership",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Football"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Sales",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Marketing",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Software Development",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "US",
+        "Team": "IT",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Testing",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Leadership",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Data Analysis",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Communication",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Supply Chain",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Marketing",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Leadership",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Football"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "IT",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Traveling"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Data Analysis",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Marketing",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Project Management",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Leadership",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Logistics",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Quality Control",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Yoga"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Supply Chain",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Dancing"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "US",
+        "Team": "Operations",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Business Intelligence",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Quality Control",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Software Development",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Supply Chain",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Gaming"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Sales",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Sales",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Network Administration",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Network Administration",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Reading"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Leadership",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Network Administration",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Leadership",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Leadership",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Security",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Marketing",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Sales",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "US",
+        "Team": "Sales",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Manufacturing",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Business Intelligence",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Communication",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Network Administration",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Software Development",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Cricket"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Testing",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Singing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Leadership",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Sales",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cricket"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Security",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Football"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Communication",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "IT",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Foodie"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Logistics",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Reading"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Business Intelligence",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Business Intelligence",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Logistics",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "US",
+        "Team": "HR",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Leadership",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Data Analysis",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Cricket"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Testing",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Network Administration",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Network Administration",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Project Management",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Data Analysis",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Quality Control",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Sales",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "IT",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Sales",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Software Development",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Leadership",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Football"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Marketing",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Security",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "US",
+        "Team": "Finance",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Testing",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Marketing",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Cricket"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Sales",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Software Development",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Software Development",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Supply Chain",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Software Development",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Foodie"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Project Management",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Manufacturing",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Marketing",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Reading"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Manufacturing",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Business Intelligence",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Network Administration",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Security",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Manufacturing",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Foodie"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "EMEIA",
+        "Team": "Marketing",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Communication",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Foodie"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Testing",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Foodie"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Communication",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Testing",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Marketing",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Manufacturing",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Cricket"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Manufacturing",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Business Intelligence",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Reading"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Communication",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Marketing",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Software Development",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Logistics",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Testing",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Data Analysis",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Software Development",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "EMEIA",
+        "Team": "IT",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "IT",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Leadership",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Software Development",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Testing",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "IT",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Manufacturing",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "IT",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "IT",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Gaming"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Logistics",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Software Development",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Project Management",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Leadership",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Data Analysis",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Sports"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Communication",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Testing",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "EMEIA",
+        "Team": "Operations",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Software Development",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Sales",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Marketing",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "IT",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Manufacturing",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Testing",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Supply Chain",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Business Intelligence",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Supply Chain",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Yoga"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Logistics",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Football"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Sales",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Football"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Quality Control",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Business Intelligence",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Manufacturing",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Communication",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "EMEIA",
+        "Team": "Sales",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Security",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Football"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Testing",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Reading"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Data Analysis",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Singing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Communication",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Traveling"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Security",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Project Management",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Reading"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Marketing",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Sales",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Leadership",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Dancing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Logistics",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Marketing",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Sports"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Project Management",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Logistics",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Sales",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Traveling"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Testing",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "EMEIA",
+        "Team": "HR",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Data Analysis",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Communication",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Gaming"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Logistics",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Software Development",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Testing",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Marketing",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Dancing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Marketing",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Traveling"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Sales",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Data Analysis",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Marketing",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Marketing",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Communication",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Data Analysis",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Communication",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Testing",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "EMEIA",
+        "Team": "Finance",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Software Development",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Security",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Data Analysis",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Network Administration",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Quality Control",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Logistics",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Logistics",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Cricket"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Project Management",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Traveling"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Security",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Logistics",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Data Analysis",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Sales",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Yoga"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Testing",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Supply Chain",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Business Intelligence",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "China",
+        "Team": "Marketing",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Sales",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Security",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Manufacturing",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "IT",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Network Administration",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Supply Chain",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Marketing",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Business Intelligence",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Network Administration",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Traveling"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Project Management",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Dancing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Project Management",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Quality Control",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "IT",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Business Intelligence",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Cricket"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Communication",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "China",
+        "Team": "IT",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Manufacturing",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Network Administration",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Quality Control",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Logistics",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Quality Control",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Data Analysis",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Football"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Network Administration",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "IT",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "IT",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Security",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Data Analysis",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Traveling"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Sales",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Security",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Sales",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cricket"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Network Administration",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Sports"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "China",
+        "Team": "Operations",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "IT",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Data Analysis",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Supply Chain",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Supply Chain",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Marketing",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Testing",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Sales",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Data Analysis",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Communication",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Supply Chain",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Data Analysis",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Manufacturing",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Reading"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Security",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Testing",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "IT",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "China",
+        "Team": "Sales",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Security",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Security",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Leadership",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Cricket"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Sales",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Business Intelligence",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Network Administration",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Traveling"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Testing",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Supply Chain",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Business Intelligence",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Security",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Leadership",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Communication",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Communication",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Project Management",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Marketing",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "China",
+        "Team": "HR",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "IT",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Project Management",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Communication",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Manufacturing",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Supply Chain",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Manufacturing",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Network Administration",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Supply Chain",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Photography"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Sales",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Data Analysis",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Cricket"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Security",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Project Management",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Network Administration",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Network Administration",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Logistics",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "China",
+        "Team": "Finance",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Software Development",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Project Management",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Manufacturing",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Football"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Project Management",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Reading"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Sales",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Leadership",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Leadership",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Network Administration",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Marketing",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Sales",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "IT",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Logistics",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Business Intelligence",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Foodie"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Network Administration",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Testing",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "India",
+        "Team": "Marketing",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Communication",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Football"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Software Development",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Data Analysis",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Yoga"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Business Intelligence",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Cricket"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Project Management",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Music"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Supply Chain",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Testing",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Logistics",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Software Development",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Business Intelligence",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Software Development",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Project Management",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Gaming"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Testing",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Logistics",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Manufacturing",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Foodie",
+                    "Hiking"
+                ],
+                "Initiatives project": "New Product Launch"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "India",
+        "Team": "IT",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Testing",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Project Management",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Manufacturing",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Reading"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Communication",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Sales",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Traveling"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Manufacturing",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Data Analysis",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Communication",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Software Development",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "IT",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Leadership",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Quality Control",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Marketing",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Music"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Software Development",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Project Management",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Cooking"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "India",
+        "Team": "Operations",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Communication",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Singing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Testing",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Logistics",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Sports"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Logistics",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Sports"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Manufacturing",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Project Management",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Dancing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Leadership",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Network Administration",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Yoga"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Quality Control",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Cooking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "IT",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Dancing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Quality Control",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Communication",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Data Analysis",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Network Administration",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Dancing"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Sales",
+                    "Security"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Reading"
+                ],
+                "Initiatives project": "Digital Transformation"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "India",
+        "Team": "Sales",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Project Management",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Data Analysis",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Testing",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Football"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Business Intelligence",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Software Development",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Reading"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Quality Control",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Yoga"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Supply Chain",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Project Management",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Reading"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Business Intelligence",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Photography",
+                    "Traveling"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Data Analysis",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Singing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Marketing",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Yoga"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Leadership",
+                    "Project Management",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Yoga"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Network Administration",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Data Analysis",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Photography"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Supply Chain",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Singing"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "India",
+        "Team": "HR",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Communication",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Dancing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Communication",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Data Analysis",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Software Development",
+                    "Supply Chain"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Music"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Quality Control",
+                    "Business Intelligence"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Singing"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Project Management",
+                    "Security",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Network Administration",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Football"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Business Intelligence",
+                    "Marketing",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "Foodie"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Marketing",
+                    "Business Intelligence",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "Marketing",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "Data Analysis",
+                    "IT",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "D&D"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Data Analysis",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Leadership",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "D&D",
+                    "Sports"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Network Administration",
+                    "Testing",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Project Management",
+                    "Testing"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    },
+    {
+        "Organisation": "Insight",
+        "Region": "India",
+        "Team": "Finance",
+        "Members": [
+            {
+                "Name": "Member 1",
+                "Email": "member1@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Sales",
+                    "Software Development"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 2",
+                "Email": "member2@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Marketing",
+                    "Quality Control"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 3",
+                "Email": "member3@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Sales",
+                    "Project Management"
+                ],
+                "Ice Breakers": [
+                    "Yoga",
+                    "Dancing"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 4",
+                "Email": "member4@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Quality Control",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Reading",
+                    "Cricket"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 5",
+                "Email": "member5@Insight.com",
+                "Professional Skills": [
+                    "Communication",
+                    "Network Administration",
+                    "Manufacturing"
+                ],
+                "Ice Breakers": [
+                    "Dancing",
+                    "Hiking"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 6",
+                "Email": "member6@Insight.com",
+                "Professional Skills": [
+                    "Quality Control",
+                    "Software Development",
+                    "Data Analysis"
+                ],
+                "Ice Breakers": [
+                    "Sports",
+                    "Football"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 7",
+                "Email": "member7@Insight.com",
+                "Professional Skills": [
+                    "Security",
+                    "Logistics",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Football",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 8",
+                "Email": "member8@Insight.com",
+                "Professional Skills": [
+                    "Testing",
+                    "Security",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Music",
+                    "Gaming"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 9",
+                "Email": "member9@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Logistics",
+                    "Network Administration"
+                ],
+                "Ice Breakers": [
+                    "Hiking",
+                    "Cooking"
+                ],
+                "Initiatives project": "New Product Launch"
+            },
+            {
+                "Name": "Member 10",
+                "Email": "member10@Insight.com",
+                "Professional Skills": [
+                    "Supply Chain",
+                    "Project Management",
+                    "Logistics"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Sports"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 11",
+                "Email": "member11@Insight.com",
+                "Professional Skills": [
+                    "IT",
+                    "Supply Chain",
+                    "Marketing"
+                ],
+                "Ice Breakers": [
+                    "Cricket",
+                    "Photography"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 12",
+                "Email": "member12@Insight.com",
+                "Professional Skills": [
+                    "Logistics",
+                    "Software Development",
+                    "IT"
+                ],
+                "Ice Breakers": [
+                    "Traveling",
+                    "D&D"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 13",
+                "Email": "member13@Insight.com",
+                "Professional Skills": [
+                    "Manufacturing",
+                    "Security",
+                    "Leadership"
+                ],
+                "Ice Breakers": [
+                    "Singing",
+                    "D&D"
+                ],
+                "Initiatives project": "Customer Retention"
+            },
+            {
+                "Name": "Member 14",
+                "Email": "member14@Insight.com",
+                "Professional Skills": [
+                    "Software Development",
+                    "Quality Control",
+                    "Sales"
+                ],
+                "Ice Breakers": [
+                    "Gaming",
+                    "Hiking"
+                ],
+                "Initiatives project": "Digital Transformation"
+            },
+            {
+                "Name": "Member 15",
+                "Email": "member15@Insight.com",
+                "Professional Skills": [
+                    "Sales",
+                    "Supply Chain",
+                    "Communication"
+                ],
+                "Ice Breakers": [
+                    "Cooking",
+                    "Foodie"
+                ],
+                "Initiatives project": "Customer Retention"
+            }
+        ]
+    }
+]
